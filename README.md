@@ -1,1 +1,1 @@
-:(
+Hi, ML models are fascinating. I'm working on my thrid year at uni. This include an unlearning model inspired by the brain's memory, comparing dream image signals to wakeful image signals, among others. I believe a great scientific boundary lies in the assumptions of our own observations.
