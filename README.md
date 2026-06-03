@@ -1,1 +1,1 @@
-Hi, ML models are fascinating. I'm working on my thrid year at uni. This include an unlearning model inspired by the brain's memory, comparing dream image signals to wakeful image signals, among others.
+Hello, I study CS! I am building my CS, data science, ML, cloud and networking to hopfully work as ML engineer! I'm working on my thrid year at uni. This include an unlearning model inspired by the brain's memory, comparing dream image signals to wakeful image signals, among others.
