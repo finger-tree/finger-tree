@@ -2,5 +2,4 @@ Hello, I study CS! I am building my CS, data science, ML, cloud and networking t
   market simulator game using reinforced agents (deep Q network), 
   DreamDiffusion for translating brainwaves to images through text alignment,
   Signals recruit CRM with full customer oriented AI integration.
-I run 5km everyday, read physics everyday, and enjoys the process of learning something completely new from the ground up!
-  
+I run 5km everyday, eat up essential nutrients list, enjoy reading natural sciences, and enjoys trotting into the vast darkness and unknown. At night.
