@@ -1,6 +1,6 @@
 ## Code, learn, unlearn, run
 
-I am building my **CS, data science, ML, cloud and networking** to meaningfully contribute in the AI era!
+I aim to contribute meaningfully in the AI era
 
 I graduated from college with a better understanding of **brain memory management**, **the problem of unlearning**, among skills and projects including and not limited to:
 
