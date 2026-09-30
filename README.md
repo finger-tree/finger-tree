@@ -1,4 +1,4 @@
-## Hello, I study CS!
+## Code, learn, unlearn, run
 
 I am building my **CS, data science, ML, cloud and networking** to meaningfully contribute in the AI era!
 
