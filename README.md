@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Manim-000000?logo=python&logoColor=white" />
 </p>
 
-> [!TIP]
+> 💡 **Aspiration**  
 > I aim to contribute meaningfully in the AI era.
 
 I graduated from college with a better understanding of **brain memory management** and **the problem of unlearning**, among other skills and projects.
@@ -56,13 +56,9 @@ I graduated from college with a better understanding of **brain memory managemen
 
 ---
 
-<details>
-<summary>🌙 <b>Off the keyboard</b></summary>
-<br>
+## 🌙 Off the keyboard
 
 - 🏃 I <kbd>run</kbd> 5 km every day
 - 🥗 Eat up the essential nutrients list
 - 🔬 Enjoy reading natural sciences
 - 🌌 Trot into the vast darkness and unknown. At night.
-
-</details>
