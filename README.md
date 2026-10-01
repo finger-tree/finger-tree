@@ -47,7 +47,7 @@ I graduated from college with a better understanding of **brain memory managemen
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coriolis-cat&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coriolis-cat&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coriolis-cat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
