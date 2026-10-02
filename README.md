@@ -80,10 +80,10 @@ class CoriolisCat:
 ## ☾ Off the keyboard
 
 <p align="center">
-  <img src="assets/run-ticker.svg?v=2" width="100%" alt="Run: 5 km every day" />
-  <img src="assets/fuel-ticker.svg?v=2" width="100%" alt="Fuel: the 43 essential nutrients and where to get them" />
-  <img src="assets/read-ticker.svg?v=2" width="100%" alt="Read: the current reading shelf" />
-  <img src="assets/explore-ticker.svg?v=2" width="100%" alt="Explore: after dark" />
+  <a href="https://worldathletics.org/athletes/hong-kong-china/ansen-lam-14886752"><img src="assets/run-ticker.svg?v=2" width="100%" alt="Run: 5 km every day" /></a>
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6020734/"><img src="assets/fuel-ticker.svg?v=2" width="100%" alt="Fuel: the 43 essential nutrients and where to get them" /></a>
+  <a href="https://en.wikipedia.org/wiki/Reading"><img src="assets/read-ticker.svg?v=2" width="100%" alt="Read: the current reading shelf" /></a>
+  <a href="https://github.com/ossu/math"><img src="assets/explore-ticker.svg?v=2" width="100%" alt="Explore: after dark" /></a>
 </p>
 
 <p align="center">
