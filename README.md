@@ -17,7 +17,7 @@
   <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-0B0B0B?style=for-the-badge&logo=pytorch&logoColor=FFD60A" alt="PyTorch" /></a>
   <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-0B0B0B?style=for-the-badge&logo=jupyter&logoColor=FFD60A" alt="Jupyter" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=FFD60A" alt="JavaScript" /></a>
-  <a href="https://www.docs.docker.com"><img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=FFD60A" alt="Docker" /></a>
+  <a href="https://docs.docker.com"><img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=FFD60A" alt="Docker" /></a>
   <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-0B0B0B?style=for-the-badge&logo=kubernetes&logoColor=FFD60A" alt="Kubernetes" /></a>
   <a href="https://www.manim.community"><img src="https://img.shields.io/badge/Manim-0B0B0B?style=for-the-badge&logo=python&logoColor=FFD60A" alt="Manim" /></a>
   <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/LaTeX-0B0B0B?style=for-the-badge&logo=latex&logoColor=FFD60A" alt="LaTeX" /></a>
