@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://icanhas.cheezburger.com/lolcats"><img src="assets/banner.svg" width="100%" alt="coriolis-cat banner: an abstract cat in a rotating frame, with Coriolis vectors −2Ω × v" /></a>
+  <a href="https://popcat.click/"><img src="assets/banner.svg" width="100%" alt="coriolis-cat banner: an abstract cat in a rotating frame, with Coriolis vectors −2Ω × v" /></a>
 </p>
 
 <p align="center">
