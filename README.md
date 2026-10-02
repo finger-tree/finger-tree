@@ -79,14 +79,12 @@ class CoriolisCat:
 
 ## ☾ Off the keyboard
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">🏃<br/><b>Run</b><br/><img src="https://img.shields.io/badge/5%20km%20every%20day-E63946?style=flat-square" /></td>
-    <td align="center" width="25%">🥗<br/><b>Fuel</b><br/><img src="https://img.shields.io/badge/essential%20nutrients-FFD60A?style=flat-square" /></td>
-    <td align="center" width="25%">🔬<br/><b>Read</b><br/><img src="https://img.shields.io/badge/natural%20sciences-F5F5F5?style=flat-square" /></td>
-    <td align="center" width="25%">🌌<br/><b>Explore</b><br/><img src="https://img.shields.io/badge/the%20dark%20unknown%2C%20at%20night-0B0B0B?style=flat-square" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/run-ticker.svg?v=2" width="100%" alt="Run: 5 km every day" />
+  <img src="assets/fuel-ticker.svg?v=2" width="100%" alt="Fuel: the 43 essential nutrients and where to get them" />
+  <img src="assets/read-ticker.svg?v=2" width="100%" alt="Read: the current reading shelf" />
+  <img src="assets/explore-ticker.svg?v=2" width="100%" alt="Explore: after dark" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,65:0B0B0B,85:E63946,100:FFD60A&height=130&section=footer&text=Thinking%20in%20rotating%20frames&fontSize=24&fontColor=F5F5F5&fontAlignY=72" />
